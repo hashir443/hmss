@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <div>hemlo</div>
+    <div>hemlo</div>
   </div>
 </template>
 
